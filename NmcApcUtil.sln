@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NmcApcUtil", "NmcApcUtil\NmcApcUtil.csproj", "{26D29E50-65ED-41BB-8BDE-9856E048BF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Debug|x64.Build.0 = Debug|Any CPU
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Debug|x86.Build.0 = Debug|Any CPU
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Release|x64.ActiveCfg = Release|Any CPU
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Release|x64.Build.0 = Release|Any CPU
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Release|x86.ActiveCfg = Release|x86
+		{26D29E50-65ED-41BB-8BDE-9856E048BF69}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0915D9B-322E-4A9E-A575-E829B628DD54}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+# NmcApcUtil
+
+This tool helps converting a pkcs12 (pfx) file into the proprietary APC format which can be used to upload as TLS certificate on Schneider Electric APC UPS.
+
+Usage:
+NmcApcUtil.exe <source-pfx> <pfx-password> <destinationfile>
+
